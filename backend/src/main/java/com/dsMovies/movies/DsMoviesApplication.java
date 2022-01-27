@@ -1,13 +1,13 @@
-package com.DevMovie.DevMovie;
+package com.dsMovies.movies;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DevMovieApplication {
+public class DsMoviesApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DevMovieApplication.class, args);
+		SpringApplication.run(DsMoviesApplication.class, args);
 	}
 
 }
